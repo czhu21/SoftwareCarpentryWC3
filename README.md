@@ -1,6 +1,8 @@
 # SoftwareCarpentryWC3
 
-Casey Zhu Software Carpentry Weekly Challenge 3 
+Casey Zhu 
+
+Software Carpentry Weekly Challenge 3 
 
 This project is to get exposure to git and web development, as well as some basic Python.
 - The website is based on a basic Jekyll template
